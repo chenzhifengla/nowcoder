@@ -117,5 +117,11 @@
     <ClCompile Include="网易2016研发工程师编程题2B.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="完美世界2017实习生笔试题A.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="蘑菇街2017校园招聘笔试题A.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
